@@ -1,0 +1,2 @@
+para i desde 1 hasta 2 hacer {
+  imprimir('Faltallave')
