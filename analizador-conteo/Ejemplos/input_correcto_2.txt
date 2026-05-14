@@ -1,7 +1,0 @@
-para x desde 2 hasta 4 hacer {
-  imprimir('Uno');
-  imprimir('Dos');
-}
-para y desde 5 hasta 6 hacer {
-  imprimir('Otrobucle');
-}
